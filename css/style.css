@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+}
+
+nav ul {
+    list-style: none;
+    background-color: #4a4a4f;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav li {
+    font-size: 1.2em;
+    height: 40px;
+    line-height: 40px;
+    margin: 2.5%;
+    display: inline-block;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+nav a:hover {
+    background-color: #fff;
+    color: #4a4a4f;
+}
+
+.card {
+    float: left;
+    width: 10%;
+    margin-left: 10%;
+}
+
+
+.card a {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: 190px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#git_pod {
+    width: 230px; 
+
+}
+
+#git {
+    width: 200px;        
+}
+
+#git_hub {
+    width: 190px;
+}
+
+#java_script {
+    width: 350px;
+}
+
+#python {
+    width: 200px;
+}
+
+#heroku {
+    width: 510px;
+}
+
+#zapier {
+    width: 400px;
+}
+
+#google {
+    width: 200px;
+}
